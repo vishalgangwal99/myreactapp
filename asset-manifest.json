@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.9be6c962.css",
+    "main.js": "/myreactapp/static/js/main.e29266eb.js",
+    "static/media/shopping-bag.svg": "/myreactapp/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/myreactapp/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/myreactapp/index.html",
+    "main.9be6c962.css.map": "/myreactapp/static/css/main.9be6c962.css.map",
+    "main.e29266eb.js.map": "/myreactapp/static/js/main.e29266eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be6c962.css",
+    "static/js/main.e29266eb.js"
+  ]
+}
